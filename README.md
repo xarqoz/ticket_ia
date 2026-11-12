@@ -1,7 +1,7 @@
 # Asistente de clasificación de correos / tickets de soporte
 
 > **Curso:** Inteligencia Artificial
-> **Autores:** _(completar con los integrantes del equipo)_
+> **Autores:** Samuel Rendon Pabon, Luis Miguel Mira Mejia, Miguel Angel Marin Mejia, Juan Diego Albanez Lopez
 > **Fecha:** 12 de noviembre de 2026
 
 Clasificador híbrido que asigna a cada mensaje de soporte una categoría
